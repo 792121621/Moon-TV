@@ -1,5 +1,4 @@
 /* eslint-disable no-console */
-export const runtime = 'edge';
 
 import { NextRequest, NextResponse } from 'next/server';
 
